@@ -1,0 +1,10 @@
+.container,.fa-solid{
+    box-shadow: -3px -3px 7px #ffff,
+                3px 3px 5px #ceced1;
+}
+.font{
+    font-family: "Inter", sans-serif;
+}
+.ss{
+    box-shadow: none;
+}
